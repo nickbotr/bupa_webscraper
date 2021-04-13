@@ -1,0 +1,5 @@
+# ignore all files in any directory named .vscode
+.vscode/
+
+# ignore all files in any directory named .vscode
+env/
